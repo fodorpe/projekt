@@ -1,0 +1,94 @@
+﻿Az input fájl egy belföldi utazási iroda ajánlatait tartalmazza. Az egyes adatelemeket tabulátor választja el.
+Az egyes oszlopok jelentése a következő:
+•	Tájegység: az utazást érintő tájegység neve
+•	Éjszaka: az eltöltendő éjszakák száma
+•	Családos: családos vagy egyéni út (logikai)
+•	Hónap: melyik hónapra érvényes az ajánlat
+•	Maximális létszám
+•	Jelentkezések: eddig jelentkezettek száma
+•	Ár: részvételi díj egy főre
+
+1)	Hány ajánlat található az input fájlban?
+2)	Hány mátrai tájegységre vonatozó ajánlat található az input fájlban?
+3)	Hány mecseki tájegységre vonatozó ajánlat található az input fájlban?
+4)	Hány bakonyi tájegységre vonatozó ajánlat található az input fájlban?
+5)	Hány hortobágyi tájegységre vonatozó ajánlat található az input fájlban?
+6)	Hány őrségi tájegységre vonatozó ajánlat található az input fájlban?
+7)	Hány mátrai tájegységre vonatozó, családos ajánlat található az input fájlban?
+8)	Hány mecseki tájegységre vonatozó, egyéni ajánlat található az input fájlban?
+9)	Hány bakonyi tájegységre vonatozó, májusi ajánlat található az input fájlban?
+10)	Hány hortobágyi tájegységre vonatozó, júliusi ajánlat található az input fájlban?
+11)	Hány őrségi tájegységre vonatozó, októberi ajánlat található az input fájlban?
+12)	Hány mátrai tájegységre vonatozó, családos, öt napnál hosszabb ajánlat található az input fájlban?
+13)	Hány mecseki tájegységre vonatozó, egyéni, 3 napnál rövidebb ajánlat található az input fájlban?
+14)	Hány bakonyi tájegységre vonatozó, májusi, egy hétnél hosszabb ajánlat található az input fájlban?
+15)	Hány hortobágyi tájegységre vonatozó, júliusi, egy hetes ajánlat található az input fájlban?
+16)	Hány őrségi tájegységre vonatozó, októberi, öt napos ajánlat található az input fájlban?
+17)	Hány mátrai tájegységre vonatozó, családos, még szabad hellyel rendelkező ajánlat található az input fájlban?
+18)	Hány mecseki tájegységre vonatozó, egyéni, még szabad hellyel rendelkező ajánlat található az input fájlban?
+19)	Hány bakonyi tájegységre vonatozó, májusi, még szabad hellyel rendelkező ajánlat található az input fájlban?
+20)	Hány hortobágyi tájegységre vonatozó, júliusi, még szabad hellyel rendelkező ajánlat található az input fájlban?
+21)	Hány őrségi tájegységre vonatozó, októberi, még szabad hellyel rendelkező ajánlat található az input fájlban?
+22)	Válogassuk ki a mátrai tájegységre vonatozó, családos, még szabad hellyel rendelkező ajánlatokat!
+23)	Válogassuk ki a bükki tájegységre vonatozó, májusi, még szabad hellyel rendelkező ajánlatokat!
+24)	Válogassuk ki a zempléni tájegységre vonatozó, egyéni, még szabad hellyel rendelkező ajánlatokat!
+25)	Válogassuk ki a mecseki tájegységre vonatozó, júniusi, még szabad hellyel rendelkező ajánlatokat!
+26)	Válogassuk ki a balatoni tájegységre vonatozó, augusztusi, még szabad hellyel rendelkező ajánlatokat!
+27)	Válogassuk ki a mátrai tájegységre vonatozó, családos, még szabad hellyel rendelkező, 20000 Ft alatti ajánlatokat!
+28)	Válogassuk ki a bükki tájegységre vonatozó, májusi, még szabad hellyel rendelkező, 50000 Ft alatti ajánlatokat!
+29)	Válogassuk ki a zempléni tájegységre vonatozó, egyéni, még szabad hellyel rendelkező, 60000 Ft alatti ajánlatokat!
+30)	Válogassuk ki a mecseki tájegységre vonatozó, júniusi, még szabad hellyel rendelkező, 30000 Ft alatti ajánlatokat!
+31)	Válogassuk ki a balatoni tájegységre vonatozó, augusztusi, még szabad hellyel rendelkező, 40000 Ft alatti ajánlatokat!
+32)	Válogassuk ki a mátrai tájegységre vonatozó, nyári, még szabad hellyel rendelkező ajánlatokat!
+33)	Válogassuk ki a bükki tájegységre vonatozó, nyári, még szabad hellyel rendelkező ajánlatokat!
+34)	Válogassuk ki a zempléni tájegységre vonatozó, téli, még szabad hellyel rendelkező!
+35)	Válogassuk ki a mecseki tájegységre vonatozó, tavaszi, még szabad hellyel rendelkező ajánlatokat!
+36)	Válogassuk ki a balatoni tájegységre vonatozó, őszi, még szabad hellyel rendelkező ajánlatokat!
+37)	Van-e az irodának téli, balatoni ajánlata?
+38)	Van-e az irodának őszi, balatoni ajánlata?
+39)	Van-e az irodának tavaszi, hortobágyi ajánlata?
+40)	Van-e az irodának téli, bakonyi ajánlata?
+41)	Van-e az irodának őszi, bükki ajánlata?
+42)	Van-e az irodának nyári, pilisi ajánlata?
+43)	Van-e az irodának téli, őrségi ajánlata?
+44)	Igaz-e, hogy az minden ajánlat legalább 3 napos?
+45)	Igaz-e, hogy az minden ajánlat legalább 5 napos?
+46)	Igaz-e, hogy az minden ajánlat legalább 2 napos?
+47)	Igaz-e, hogy az minden ajánlat legalább 10000 Ft-ba kerül?
+48)	Igaz-e, hogy az minden ajánlat legalább 5000 Ft-ba kerül?
+49)	Igaz-e, hogy az minden ajánlat legalább 1000 Ft-ba kerül?
+50)	Igaz-e, hogy az minden ajánlat tavaszi, és maximális létszáma legalább 20 fő?
+51)	Igaz-e, hogy az minden ajánlat nyári, és maximális létszáma legalább 5 fő?
+52)	Igaz-e, hogy az minden ajánlat téli, és maximális létszáma legalább 30 fő?
+53)	Igaz-e, hogy az minden ajánlat őszi, és maximális létszáma legalább 15 fő?
+54)	Hány forintba kerül a legdrágább ajánlat?
+55)	Hány forintba kerül a legolcsóbb ajánlat?
+56)	Hány napos a leghosszabb ajánlat?
+57)	Hány napos a legrövidebb ajánlat?
+58)	Hány fős a legnagyobb maximális létszámú ajánlat?
+59)	Hány fős a legkisebb maximális létszámú ajánlat?
+60)	Hány fős a legtöbb jelentkezéssel bíró ajánlat?
+61)	Hány fős a legkisebb jelentkezéssel bíró ajánlat?
+62)	Válogassuk ki a mecseki utak közül azokat, melyekre minden hely elkelt.
+63)	Válogassuk ki a zempléni utak közül azokat, melyekre minden hely elkelt.
+64)	Válogassuk ki az őrségi utak közül azokat, melyekre minden hely elkelt.
+65)	Válogassuk ki a balatoni utak közül azokat, melyekre minden hely elkelt.
+66)	Válogassuk ki a legdrágább ajánlatokat?
+67)	Válogassuk ki a legolcsóbb ajánlatokat?
+68)	Válogassuk ki a leghosszabb ajánlatokat?
+69)	Válogassuk ki a legrövidebb ajánlatokat?
+70)	Válogassuk ki a legnagyobb maximális létszámú ajánlatokat?
+71)	Válogassuk ki a legkisebb maximális létszámú ajánlatokat?
+72)	Válogassuk ki a legtöbb jelentkezéssel bíró ajánlatokat?
+73)	Válogassuk ki a legkisebb jelentkezéssel bíró ajánlatokat?
+74)	Válogassuk ki a nyári, legalább 5 napos ajánlatok közül a legolcsóbbakat!
+75)	Válogassuk ki az őszi, legfeljebb 5 napos ajánlatok közül a legdrágábbakat!
+76)	Válogassuk ki a tavaszi, legalább 2 napos ajánlatok közül a legolcsóbbakat!
+77)	Válogassuk ki a nyári, legfeljebb egy hetes ajánlatok közül a legdrágábbakat!
+78)	Válogassuk ki az őszi, legalább egy hetes ajánlatok közül a legolcsóbbakat!
+79)	Válogassuk ki a téli, legfeljebb 5 napos ajánlatok közül a legdrágábbakat!
+80)	Válogassuk ki az őszi, legalább egy hetes, szabad hellyel rendelkező ajánlatok közül a legolcsóbbakat!
+81)	Válogassuk ki az mátrai, legalább 3 napos, szabad hellyel rendelkező ajánlatok közül a legolcsóbbakat!
+82)	Válogassuk ki az őszi, legfeljebb egy hetes, szabad hellyel rendelkező ajánlatok közül a legolcsóbbakat!
+83)	Válogassuk ki az mátrai, vagy bükki, legalább egy hetes, szabad hellyel rendelkező ajánlatok közül a legolcsóbbakat!
+84)	Válogassuk ki az nyári, legfeljebb egy hetes, szabad hellyel rendelkező ajánlatok közül a legdrágábbakat!

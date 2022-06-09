@@ -1,0 +1,1 @@
+Készíts egy programot, amely bekér a felhasználótól egy egész számot, és megmondja, hogy mi  a szám abszolútértéke!

@@ -1,0 +1,2 @@
+Szedd össze az összes kavicsot a pályán és rakd őket a vödörbe!
+A feladatban használható a MerreNéz() függvény.

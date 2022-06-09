@@ -1,0 +1,6 @@
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\bin\Debug\3000O.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\bin\Debug\3000O.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\bin\Debug\3000O.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\obj\Debug\3000O.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\obj\Debug\3000O.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.20 3000O\3000O\obj\Debug\3000O.pdb

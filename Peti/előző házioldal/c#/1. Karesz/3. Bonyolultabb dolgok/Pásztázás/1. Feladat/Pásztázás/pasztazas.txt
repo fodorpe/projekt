@@ -1,0 +1,1 @@
+Szedd össze a palya26.txt és palya27.txt pályán található összes kavicsot!

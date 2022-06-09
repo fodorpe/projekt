@@ -1,0 +1,58 @@
+Az input fájl néhány színész adatait tartalmazza. Az egyes adatelemeket tabulátor választja el. 
+Az egyes oszlopok jelentése a következő:
+•	név
+•	férfi-e
+•	születési dátum
+•	születési hely (település)
+•	születési ország
+•	filmek száma
+
+1)	Írja ki a Budapesten született színészek nevét és filmjeinek a számát!
+2)	Írja ki a New Yorkban született színészek nevét és filmjeinek a számát!
+3)	Írja ki a Berlinben született színészek nevét és filmjeinek a számát!
+4)	Írja ki a Párizsban született színészek nevét és filmjeinek a számát!
+5)	Írja ki a Tokióban született színészek nevét és filmjeinek a számát!
+6)	Hány színész született Budapesten?
+7)	Hány színész született Berlinben?
+8)	Hány színész született New Yorkban?
+9)	Hány színész született USA-ban?
+10)	Hány színész született Magyarországon?
+11)	Hány színész született Németországban?
+12)	Hány színész született Mexikóban?
+13)	Hány színész született az USA-ban?
+14)	Hány női színész született Magyarországon?
+15)	Hány női színész született Angliában?
+16)	Hány női színész született Skóciában?
+17)	Hány női színész született Belgiumban?
+18)	Hány férfi színész született Magyarországon?
+19)	Hány férfi színész született Kanadában?
+20)	Hány férfi színész született USA-ban?
+21)	Hány férfi színész született Olaszországban?
+22)	Hány női színész született Olaszországban vagy Spanyolországban?
+23)	Hány női színész született Magyarországon vagy Romániában?
+24)	Hány női színész született az USA-ban vagy Mexikóban?
+25)	Hány férfi színész született Skóciában vagy Angliában?
+26)	Hány férfi színész született Franciaországban vagy Németországban?
+27)	Hány színész született 1950-ben vagy 1951-ben, USA-ban vagy Kanadában?
+28)	Hány színész született 1955-ben vagy 1957-ben, Magyarországon vagy Kanadában?
+29)	Hány színész született 1961-ben vagy 1962-ben, Angliában vagy Skóciában?
+30)	Hány színész született 1970-ben vagy 1971-ben, USA-ban vagy Angliában?
+31)	Hány férfi színész született 1950-ben vagy 1951-ben, USA-ban vagy Kanadában?
+32)	Hány női színész született 1955-ben vagy 1957-ben, Magyarországon vagy Kanadában?
+33)	Hány férfi színész született 1961-ben vagy 1962-ben, Angliában vagy Skóciában?
+34)	Hány női színész született 1970-ben vagy 1971-ben, USA-ban vagy Angliában?
+35)	Mikor született a legidősebb színész?
+36)	Mikor született a legfiatalabb színész?
+37)	Írja ki a legidősebb színész(ek) nevét és születési évét!
+38)	Írja ki a legfiatalabb színész(ek) nevét és születési évét!
+39)	Hány filmben játszott a legtöbb filmben szereplő színész?
+40)	Hány filmben játszott a legtöbb filmben szereplő, Magyarországon született színész?
+41)	Hány filmben játszott a legtöbb filmben szereplő, USA-ban született színész?
+42)	Hány filmben játszott a legtöbb filmben szereplő, Angliában született színész?
+43)	Hány filmben játszott a legtöbb filmben szereplő, Mexikóban született színész?
+44)	Hány filmben játszott a legtöbb filmben szereplő, Olaszországban született színész?
+45)	Melyik évben született a legtöbb színész? Az évet és a színészek számát is írja ki!
+46)	Melyik évben született a legkevesebb színész? Az évet és a színészek számát is írja ki!
+47)	Melyik országban született a legtöbb színész? Az országot és a színészek számát is írja ki!
+48)	Melyik országban született a legkevesebb színész? Az országot és a színészek számát is írja ki!
+49)	Vannak-e olyan színészek, akik azonos napon születtek? Írja ki a színészek nevét és születési dátumát!

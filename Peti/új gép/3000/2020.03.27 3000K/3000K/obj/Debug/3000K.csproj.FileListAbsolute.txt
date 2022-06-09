@@ -1,0 +1,7 @@
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\bin\Debug\3000K.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\bin\Debug\3000K.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\bin\Debug\3000K.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\obj\Debug\3000K.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\obj\Debug\3000K.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\obj\Debug\3000K.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.27 3000K\3000K\obj\Debug\3000K.csproj.CoreCompileInputs.cache

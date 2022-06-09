@@ -1,0 +1,18 @@
+D:\Fodor Dániel MA\3000B\3000B\bin\Debug\3000B.exe.config
+D:\Fodor Dániel MA\3000B\3000B\bin\Debug\3000B.exe
+D:\Fodor Dániel MA\3000B\3000B\bin\Debug\3000B.pdb
+D:\Fodor Dániel MA\3000B\3000B\obj\Debug\3000B.csprojResolveAssemblyReference.cache
+D:\Fodor Dániel MA\3000B\3000B\obj\Debug\3000B.exe
+D:\Fodor Dániel MA\3000B\3000B\obj\Debug\3000B.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\bin\Debug\3000B.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.30 3000B\3000B\3000B\obj\Debug\3000B.pdb

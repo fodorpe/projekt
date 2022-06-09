@@ -1,0 +1,25 @@
+D:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.exe.config
+D:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.exe
+D:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.pdb
+D:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.csprojResolveAssemblyReference.cache
+D:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.exe
+D:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.pdb
+I:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.exe.config
+I:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.exe
+I:\MA infó\visualstudio\3000A\3000A\bin\Debug\3000A.pdb
+I:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.csprojAssemblyReference.cache
+I:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.csproj.CoreCompileInputs.cache
+I:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.exe
+I:\MA infó\visualstudio\3000A\3000A\obj\Debug\3000A.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\bin\Debug\3000A.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.01.27 3000A\3000A\3000A\obj\Debug\3000A.pdb

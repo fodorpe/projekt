@@ -1,0 +1,3 @@
+Készíts egy programot, amely bekér egy pozitív egész számot, és megválaszolja, hogy a szám osztható-e 17-tel.
+
+Ha a felhasználó negatív és nem pozitív számot ad, akkor ne válaszoljon a program a kérdésre, hanem írja ki azt, hogy legközelebb pozitív számmal próbálkozzon a felhasználó!

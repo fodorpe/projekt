@@ -1,0 +1,60 @@
+﻿Az input fájl afrikai és amerikai kontinens országainak adatait tartalmazza. Az egyes adatelemeket tabulátor választja el.
+Az egyes oszlopok jelentése a következő:
+•	az adott ország neve
+•	az ország államformája
+•	terület négyzetkilométerben
+•	népesség ezer fő egységben
+•	földrész
+
+1)	Hány ország található az input fájlban?
+2)	Határozza meg az afrikai földrész népességének a nagyságát ezer főben!
+3)	Határozza meg a dél-amerikai földrész népességének a nagyságát ezer főben!
+4)	Határozza meg a közép-amerikai földrész népességének a nagyságát ezer főben!
+5)	Határozza meg a közép-amerikai földrész népességének a nagyságát ezer főben!
+6)	Határozza meg az észak-amerikai földrész népességének a nagyságát ezer főben!
+7)	Határozza meg az afrikai földrész területének a nagyságát négyzetkilométerben!
+8)	Határozza meg a dél-amerikai földrész területének a nagyságát négyzetkilométerben!
+9)	Határozza meg a közép-amerikai földrész területének a nagyságát négyzetkilométerben!
+10)	Határozza meg a közép-amerikai földrész területének a nagyságát négyzetkilométerben!
+11)	Határozza meg az észak-amerikai földrész területének a nagyságát négyzetkilométerben!
+12)	Hány ország található az afrikai földrészen?
+13)	Hány ország található a dél-amerikai földrészen?
+14)	Hány ország található a közép-amerikai földrészen?
+15)	Hány ország található az észak-amerikai földrészen?
+16)	Hány 5000 négyzetkilométernél nagyobb ország található az afrikai földrészen?
+17)	Hány 5000 négyzetkilométernél kisebb ország található az afrikai földrészen?
+18)	Hány 15000 négyzetkilométernél nagyobb ország található az dél-amerikai földrészen?
+19)	Hány 7000 négyzetkilométernél kisebb ország található az dél-amerikai földrészen?
+20)	Hány 7000 négyzetkilométernél nagyobb ország található az közép-amerikai földrészen?
+21)	Hány 8000 négyzetkilométernél kisebb ország található az közép-amerikai földrészen?
+22)	Hány 8000 négyzetkilométernél kisebb ország található az amerikai földrészen?
+23)	Hány 8000 négyzetkilométernél nagyobb ország található az amerikai földrészen?
+24)	Hány 20 milliónál kisebb népességű ország található az amerikai földrészen?
+25)	Hány 20 milliónál nagyobb népességű ország található az amerikai földrészen?
+26)	Válogassa ki a 20 milliónál népesebb afrikai országokat!
+27)	Válogassa ki a 20 milliónál népesebb dél-amerikai országokat!
+28)	Válogassa ki a 20 milliónál népesebb közép-amerikai országokat!
+29)	Válogassa ki a 20 milliónál népesebb észak-amerikai országokat!
+30)	Válogassa ki a 20 milliónál népesebb amerikai országokat!
+31)	Válogassa ki a 20 milliónál alacsonyabb népességű amerikai országokat!
+32)	Válogassa ki a 100000 négyzetkilométernél nagyobb amerikai országokat!
+33)	Válogassa ki a 100000 négyzetkilométernél kisebb amerikai országokat!
+34)	Mekkora a területe a fájlban található legnagyobb országnak?
+35)	Mekkora a területe a fájlban található legkisebb országnak?
+36)	Mekkora a lakossága a fájlban található legnépesebb országnak?
+37)	Mekkora a lakossága a fájlban található legkisebb népességű országnak?
+38)	Mekkora a területe a legnagyobb afrikai országnak?
+39)	Mekkora a területe a legnagyobb dél-amerikai országnak?
+40)	Mekkora a területe a legnagyobb közép-amerikai országnak?
+41)	Mekkora a területe a legnagyobb észak-amerikai országnak?
+42)	Mekkora a területe a legnagyobb amerikai országnak?
+43)	Mennyi a lakossága a legnépesebb afrikai országnak?
+44)	Mennyi a lakossága a legnépesebb dél-amerikai országnak?
+45)	Mennyi a lakossága a legnépesebb közép-amerikai országnak?
+46)	Mennyi a lakossága a legnépesebb észak-amerikai országnak?
+47)	Mennyi a lakossága a legnépesebb amerikai országnak?
+48)	Mekkora a népsűrűsége a legsűrűbben lakott afrikai országnak (fő/négyzetkilométer)?
+49)	Mekkora a népsűrűsége a legsűrűbben lakott dél-amerikai országnak (fő/négyzetkilométer)?
+50)	Mekkora a népsűrűsége a legsűrűbben lakott közép-amerikai országnak (fő/négyzetkilométer)?
+51)	Mekkora a népsűrűsége a legsűrűbben lakott észak-amerikai országnak (fő/négyzetkilométer)?
+52)	Mekkora a népsűrűsége a legsűrűbben lakott amerikai országnak (fő/négyzetkilométer)?

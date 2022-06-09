@@ -1,0 +1,18 @@
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\bin\Debug\3000L.exe.config
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\bin\Debug\3000L.exe
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\bin\Debug\3000L.pdb
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\obj\Debug\3000L.csprojAssemblyReference.cache
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\obj\Debug\3000L.exe
+C:\Users\FD\Desktop\z2020.04.03 3000L\3000L\obj\Debug\3000L.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\bin\Debug\3000L.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\bin\Debug\3000L.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\bin\Debug\3000L.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\obj\Debug\3000L.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\obj\Debug\3000L.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.04.03 3000L\3000L\obj\Debug\3000L.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\bin\Debug\3000L.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\bin\Debug\3000L.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\bin\Debug\3000L.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\obj\Debug\3000L.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\obj\Debug\3000L.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.04.03 3000L\3000L\obj\Debug\3000L.pdb

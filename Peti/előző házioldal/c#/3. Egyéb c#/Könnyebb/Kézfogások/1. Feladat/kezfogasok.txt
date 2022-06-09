@@ -1,0 +1,1 @@
+Készíts egy programot, amely megkérdezi, hogy hány fős a felhasználó osztálya, majd bekér egy pozitív egész számot a felhasználótól. Ezt követően a program írja ki a képernyőre, hogy hány kézfogás történne az osztályban, ha mindenki mindenkivel kezet fogna!

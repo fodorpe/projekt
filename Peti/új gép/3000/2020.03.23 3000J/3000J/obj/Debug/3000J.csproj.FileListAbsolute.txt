@@ -1,0 +1,25 @@
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\bin\Debug\3000J.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\bin\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\bin\Debug\3000J.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\obj\Debug\3000J.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\obj\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z3000J\3000J\obj\Debug\3000J.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\bin\Debug\3000J.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\bin\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\bin\Debug\3000J.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\obj\Debug\3000J.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\obj\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\z2020.03.23 3000J\3000J\obj\Debug\3000J.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\obj\Debug\3000J.csprojAssemblyReference.cache
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\obj\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\obj\Debug\3000J.pdb
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\bin\Debug\3000J.exe.config
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\bin\Debug\3000J.exe
+D:\Minden is\Dani\School\1 Premium\2 NYF 2019-2020\Infó - Molnár Attila\Házi feladatok\2020.03.23 3000J\3000J\bin\Debug\3000J.pdb
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\bin\Debug\3000J.exe.config
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\bin\Debug\3000J.exe
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\bin\Debug\3000J.pdb
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\obj\Debug\3000J.csproj.AssemblyReference.cache
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\obj\Debug\3000J.csproj.CoreCompileInputs.cache
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\obj\Debug\3000J.exe
+C:\Users\pety\Desktop\3000\2020.03.23 3000J\3000J\obj\Debug\3000J.pdb
